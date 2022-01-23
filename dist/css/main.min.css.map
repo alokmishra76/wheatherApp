@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../SCSS/main.scss",
+        "../../SCSS/abstracts/_colors.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
